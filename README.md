@@ -8,4 +8,4 @@ AnySoftKeyboard in Play Store: https://play.google.com/store/apps/details?id=com
 
 ### Screenshot of AnySoftKeyboard using Estonian layout
 
-![ScreenShot](https://github.com/johanson/AnySoftKeyboardEstonianLanguagePack/blob/master/screen1.png?raw=true)
+![ScreenShot](https://github.com/johanson/AnySoftKeyboardEstonianLanguagePack/blob/master/screen.png?raw=true)
